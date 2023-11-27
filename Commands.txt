@@ -1,0 +1,133 @@
+Commands: about
+Commands: circle 20
+Commands: clear
+Commands: reset
+Commands: about 
+Commands: about
+Commands: forward 600
+Commands: clear
+Commands: reset
+Commands: white
+Commands: forward 100
+Commands: pendown
+Commands: circle 200
+Commands: fill
+Commands: color 200
+Commands: circle 200
+Commands: fill 5
+Commands: fill
+Commands: fill 20
+Commands: fillcircle 20
+Commands: fillcircle 40
+Commands: fillcircle
+Commands: fillcircle 20
+Commands: fillcircle 60
+Commands: fillcircle 50
+Commands: clear
+Commands: fillcircle 700
+Commands: fillcircle 60
+Commands: fillcircle 50
+Commands: fillcircle 80
+Commands: about
+Commands: white
+Commands: penup
+Commands: clear
+Commands: about
+Commands: savecommand
+Commands: about
+Commands: white
+Commands: penup
+Commands: forward 100
+Commands: savecommand
+Commands: about
+Commands: penup
+Commands: circle 200
+Commands: savecommand
+Commands: about
+Commands: penup
+Commands: savecommand
+Commands: savecommand
+Commands: about
+Commands: savecommand
+Commands: about
+Commands: white
+Commands: forward 100
+Commands: savecommand
+Commands: about
+Commands: white
+Commands: forward 100
+Commands: savecommand
+Commands: savecommand
+Commands: about
+Commands: white
+Commands: savecommand
+Commands: saveimg
+Commands: about
+Commands: white
+Commands: forward 20
+Commands: savecommand
+Commands: about
+Commands: white
+Commands: penup
+Commands: forward 100
+Commands: savecommand
+Commands: about
+Commands: white
+Commands: penup
+Commands: forward 100
+Commands: savecommand
+Commands: savecommand
+Commands: foward 100
+Commands: forward 100
+Commands: about 
+Commands: about
+Commands: white
+Commands: savecommand
+Commands: about
+Commands: forward 10
+Commands: savecommand
+Commands: loadimg
+Commands: about
+Commands: loadcommand
+Commands: green
+Commands: about
+Commands: pendown
+Commands: forward 100
+Commands: newpencolor 200 200 155
+Commands: newcolor 150 155 200
+Commands: about
+Commands: fill
+Commands: fill 50
+Commands: fill 200
+Commands: fill
+Commands: fill 50
+Commands: fill 200
+Commands: loadcommand
+Commands: foward 100
+Commands: forward 100
+Commands: about 
+Commands: about
+Commands: white
+Commands: about
+Commands: forward 10
+Commands: about
+Commands: forward 50
+Commands: fill 50
+Commands: savecommand
+Commands: loadcommand
+Commands: about
+Commands: forward 50
+Commands: fill 50
+Commands: newturtle
+Commands: penup
+Commands: forward 200
+Commands: pendown
+Commands: black
+Commands: about
+Commands: clear
+Commands: fill
+Commands: fill 20
+Commands: fill50
+Commands: fill 50
+Commands: fill 50
+Commands: fill 300
